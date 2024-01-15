@@ -24,7 +24,7 @@ For the third part of the project, required links are as follows:
 
 [Link to the html file on the GitHub repository](files/IE423 Project Part 3 - Group 2/IE423 Project Part 3.html)
 
-Corresponding csv file is under the folder named IE423 Project Part 3 - Group 2/IE423 Project Part 3 Report - Group 2.pdf
+Corresponding pdf report is under the folder named IE423 Project Part 3 - Group 2/IE423 Project Part 3 Report - Group 2.pdf
 
 
 [Link to my GitHub page](https://bu-ie-423.github.io/fall-23-esratheeng/)
