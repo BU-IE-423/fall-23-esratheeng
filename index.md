@@ -18,6 +18,13 @@ For the second part of the project, required links are as follows:
 
 Corresponding csv files are under the folder named Project Part 2
 
+For the third part of the project, required links are as follows:
+
+[Link to the ipynb file on the GitHub repository](https://github.com/BU-IE-423/fall-23-esratheeng/blob/main/files/IE423%20Project%20Part%203%20-%20Group%202/Project%20Part%203%20-%20Jupyter%20Notebook%20and%20Images/IE423%20Project%20Part%203.ipynb)
+
+[Link to the html file on the GitHub repository](files/IE423 Project Part 3 - Group 2/IE423 Project Part 3.html)
+
+Corresponding csv file is under the folder named IE423 Project Part 3 - Group 2/IE423 Project Part 3 Report - Group 2.pdf
 
 
 [Link to my GitHub page](https://bu-ie-423.github.io/fall-23-esratheeng/)
